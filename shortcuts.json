@@ -1,0 +1,82 @@
+[
+  {
+    "name" : "Facebook",
+    "image" : "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s360-rw",
+    "link" : "https://www.facebook.com"
+  },
+  {
+    "name" : "Messenger",
+    "image" : "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk=s360-rw",
+    "link" : "https://www.messenger.com/"
+  },
+  {
+    "name" : "LIBRUS Synergia",
+    "image" : "https://play-lh.googleusercontent.com/__ywKSDb9uKvLDYsLkCutJxDJLtiixdT4N_GqtJ7oWl_s9SoBsazS_x4vXTZSQEQmgk=s360-rw",
+    "link" : "https://synergia.librus.pl/"
+  },
+  {
+    "name" : "Macmillan Education",
+    "image" : "https://play-lh.googleusercontent.com/2Tlu7iJWcMdITYUASst7YQBpaY_K8sIVBcbNHXv_yjgeNB8t-hpAhDLDh9IN87wdCn4=s360-rw",
+    "link" : "https://prod.lms.macmillaneducation.com/dashboard/"
+  },
+  {
+    "name" : "GeoGebra",
+    "image" : "https://play-lh.googleusercontent.com/z8nDolnGI78U0MNpuj9qcQpUCAzVULA4pEu_MChIAEhLLW_GA3HMVBj6o2cxlBQVmcI=s360-rw",
+    "link" : "https://www.geogebra.org/graphing/"
+  },
+  {
+    "name" : "Github",
+    "image" : "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s360-rw",
+    "link" : "https://www.github.com/"
+  },
+  {
+    "name" : "Github",
+    "image" : "https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s360-rw",
+    "link" : "https://www.github.com/"
+  },
+  {
+    "name" : "W3Schools",
+    "image" : "https://play-lh.googleusercontent.com/td-ZKHTHjx8oaATMsJkhJhC7dvyuGZ6pZbm2f2dQdRjQyrI2772p-XEM1KpuZ-L0CxI=s360-rw",
+    "link" : "https://www.w3schools.com/"
+  },
+  {
+    "name" : "Crowdin",
+    "image" : "https://img.stackshare.io/service/692/Ug8TZcdB_400x400.png",
+    "link" : "https://www.crowdin.com/"
+  },
+  {
+    "name" : "XDA",
+    "image" : "https://play-lh.googleusercontent.com/JxyKh6pmtKf_k_oprLFo6l2x7gnkuWfjCXOz8-L-9J8zcv8jle3VQUnpZ7KFrkAEykg=s360-rw",
+    "link" : "https://www.xda-developers.com/"
+  },
+  {
+    "name" : "Reddit",
+    "image" : "https://play-lh.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T=s360-rw",
+    "link" : "https://www.reddit.com/"
+  },
+  {
+    "name" : "StackOverflow",
+    "image" : "https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/stackoverflow-color.svg",
+    "link" : "https://stackoverflow.com"
+  },
+  {
+    "name" : "YouTube",
+    "image" : "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc=s360-rw",
+    "link" : "https://www.youtube.com"
+  },
+  {
+    "name" : "Wikipedia",
+    "image" : "https://play-lh.googleusercontent.com/htBUaqvBQR9UQ3b1-ouSHFhDGttQkH-eWetEErspYXVa8hOsfmOmj5ZanGg9GF7XAGc=s360-rw",
+    "link" : "https://www.wikipedia.org"
+  },
+  {
+    "name" : "Google Drive",
+    "image" : "https://play-lh.googleusercontent.com/t-juVwXA8lDAk8uQ2L6d6K83jpgQoqmK1icB_l9yvhIAQ2QT_1XbRwg5IpY08906qEw=s360-rw",
+    "link" : "https://www.drive.google.com"
+  },
+  {
+    "name" : "Gmail",
+    "image" : "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=s360-rw",
+    "link" : "https://mail.google.com/mail/u/0/"
+  }
+]
