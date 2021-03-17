@@ -11,7 +11,7 @@
 
 body {
     background: #202020;
-    background: linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.9)),url('https://raw.githubusercontent.com/lambada10/lambada10.github.io/master/wallpaper.jpg');
+    background: url('wallpaper.jpg');
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
