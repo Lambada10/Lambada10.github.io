@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+
+@media screen and (max-width: 800px) {
+    #content {
+        display: grid;
+        grid-template-columns: 1fr !important;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
+        gap: 0 0;
+    }
+}
+
+body {
+    background: #202020;
+    background: linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.9)),url('https://raw.githubusercontent.com/lambada10/lambada10.github.io/master/wallpaper.jpg');
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 20vh;
+    position:relative;
+}
+
+#search {
+    align-content: center;
+    margin: 10px;
+    width: auto;
+    font-size: 24px;
+    vertical-align: center;
+}
+
+#pages {
+    align-content: center;
+    margin: 10px;
+    width: auto;
+    vertical-align: bottom;
+    bottom: 0;
+    position: absolute;
+}
