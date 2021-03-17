@@ -27,13 +27,14 @@ body {
     align-content: center;
     margin: 10px;
     width: auto;
-    font-size: 24px;
+    font-size: 50px;
     vertical-align: center;
 }
 
 #pages {
     align-content: center;
-    margin: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     width: auto;
     vertical-align: bottom;
     bottom: 0;
